@@ -1,4 +1,4 @@
-function Home() {
+export default function Home() {
   return (
     <>
       <h1>Página em construção 👷🏻🪚🔧</h1>
@@ -6,5 +6,3 @@ function Home() {
     </>
   );
 }
-
-export default Home;
